@@ -1,0 +1,24 @@
+total 24
+drwxrwxr-x  2 cyril cyril 4096 janv. 26 09:43 .
+drwxr-xr-x 40 cyril cyril 4096 janv. 26 09:43 ..
+-rwxrwxr-x  1 cyril cyril 8578 janv. 26 09:43 a.out
+-rw-rw-rw-  1 cyril cyril    0 janv. 26 09:32 dir.txt
+-rw-rw-r--  1 cyril cyril  818 janv. 26 09:43 exo1.c
+total 28
+drwxrwxr-x  2 cyril cyril 4096 janv. 26 09:47 .
+drwxr-xr-x 40 cyril cyril 4096 janv. 26 09:46 ..
+-rwxrwxr-x  1 cyril cyril 8578 janv. 26 09:47 a.out
+-rw-rw-rw-  1 cyril cyril  265 janv. 26 09:43 dir.txt
+-rw-rw-r--  1 cyril cyril  827 janv. 26 09:46 exo1.c
+total 68
+drwxrwxr-x  2 cyril cyril 4096 janv. 26 13:54 .
+drwxr-xr-x 40 cyril cyril 4096 janv. 26 13:52 ..
+-rwxrwxr-x  1 cyril cyril 8628 janv. 26 13:13 a.out
+-rw-rw-rw-  1 cyril cyril  530 janv. 26 09:47 dir.txt
+-rwxrwxr-x  1 cyril cyril 8578 janv. 26 13:54 exo1
+-rw-rw-r--  1 cyril cyril  827 janv. 26 09:46 exo1.c
+-rw-rw-r--  1 cyril cyril  721 janv. 26 12:59 exo2.c
+-rwxrwxr-x  1 cyril cyril 8631 janv. 26 13:53 exo3
+-rw-rw-r--  1 cyril cyril 1019 janv. 26 13:53 exo3.c
+-rw-rw-r--  1 cyril cyril 1032 janv. 26 13:52 exo3.c~
+-rw-rw-r--  1 cyril cyril 1826 janv. 26 10:06 exo4.c
